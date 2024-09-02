@@ -1,5 +1,5 @@
 # AWS Containers Immersion Day
-This is a helper page for immersion day on November 23rd 2023.
+This is a helper page for immersion day on November 23rd 2023. :-)
 
 ### Agenda
 The agenda is as below; time is in AEST and is subject to change depending on the progress.
